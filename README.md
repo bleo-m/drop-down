@@ -1,4 +1,4 @@
-# Leo Martinez - Hive Frontend Challenge Submission
+# Leo Martinez - Frontend Submission
 
 ## Introduction
 
