@@ -22,6 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - In the multi-select menu (the menu on the right), you can select multiple options. You can also de-select any option by clicking on it again.
 - Options that have already been selected will have a light blue background and will show up at the top of the menu.
 - If too many options are selected and the text overflows, the user can scroll to the side and see all of the options that they have selected so far.
+
   <img src="./scroll-demo.png" width=300px>
 
 ## Disclaimers
