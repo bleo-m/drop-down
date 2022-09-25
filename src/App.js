@@ -26,7 +26,7 @@ function App() {
     console.log(keys);
   }, []);
   return (
-    <div className="App">
+    <div className="menu-container">
       <DropDown options={sampleOptions} onDismiss={handleSubmit} />
       <DropDown
         options={sampleOptions}
